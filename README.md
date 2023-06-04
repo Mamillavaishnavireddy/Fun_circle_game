@@ -4,11 +4,15 @@ created a fun circle game for a company interview
 **Software Assessment**
 Using 2D graphics only, create a window which will display a 3D object defined by vertices and the edges of the faces of the object. Represent the vertices using small, filled blue circles, and the edges using straight blue lines. The edges will be lines which go between the vertices, and the faces should be transparent, such that a wireframe of the 3D object is displayed. Make the object fill approximately half of the window both vertically and horizontally. Set up the coordinate frame of the window such that:
 
-1)The positive X-axis is pointing horizontally to the right,
-2)The positive Y-axis is pointing vertically upward,
-3)The positive Z-axis is pointing out of the plane of the window toward the observer, and
+1)The positive X-axis is pointing horizontally to the right
+
+2)The positive Y-axis is pointing vertically upward
+
+3)The positive Z-axis is pointing out of the plane of the window toward the observer
+
 4)The origin is at the center of the window.
-Assume that the observer is an infinite distance from the canvas.
+
+**Assume that the observer is an infinite distance from the canvas.**
 
 <img width="274" alt="image" src="https://github.com/Mamillavaishnavireddy/Fun_circle_game/assets/64226860/d773eec6-99af-4640-b3ea-267865369772">
 
@@ -27,7 +31,9 @@ Ensure that your solution will work with any file that conforms to the above des
 Add click and drag mouse functionality such that while the mouse button is pressed, movement of the mouse rotates the object thusly:
 
   1)Horizontal movement of the mouse rotates the 3D object about the window’s Y-axis.
+  
   2)Vertical movement of the mouse rotates the 3D object about the window’s X-axis.
+  
   3)Diagonal movement of the mouse is decomposed into vertical and horizontal components
   
 
@@ -50,5 +56,7 @@ implement a basic 3D graphics display and the corresponding mathematics. Please 
 **Ways to Improve your Chances:**
 
 ● Good code design & structure
+
 ● An object-oriented solution
+
 ● Good documentation!
