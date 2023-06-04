@@ -46,17 +46,18 @@ The point of the object nearest to the observer follows the mouse’s direction
 Create a separate program that contains all the functionality of part 1. Additionally, make each of the visible faces of the object a solid, opaque blue color. Make the color smoothly vary between #00005F (when the surface is viewed on edge, i.e. the normal of the surface makes a 90 degree angle to the Z-axis) and #0000FF (when the surface is viewed flat, i.e. orthogonal to the Z-axis) based on the angle with the Z-axis, such that the face is displayed similarly to how a shader would display it.
 
 **General Guidelines:**
-● Your solution should be easily executable, and well documented. All algorithms should be documented in full.
 
-● The included sample file is an example. Make the program work with any file in the specified format.
+1)Your solution should be easily executable, and well documented. All algorithms should be documented in full.
 
-● The intent of this assessment is to give you the opportunity to demonstrate that you can
+2)The included sample file is an example. Make the program work with any file in the specified format.
+
+3)The intent of this assessment is to give you the opportunity to demonstrate that you can
 implement a basic 3D graphics display and the corresponding mathematics. Please do not use a 3D graphics package or library to do the implementation for you.
 
 **Ways to Improve your Chances:**
 
-● Good code design & structure
+1)Good code design & structure
 
-● An object-oriented solution
+2)An object-oriented solution
 
-● Good documentation!
+3)Good documentation!
